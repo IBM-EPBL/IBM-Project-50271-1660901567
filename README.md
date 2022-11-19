@@ -14,9 +14,9 @@
 |  Team Members  |    Names      |
 | ------------- | ------------- |
 | `Team Leader`   |    **Nivedhita M**    |
-| `Team Member 1` | **Vishnuvarthiny P**  |
+| `Team Member 1` | **Vishnu varthiny P**  |
 | `Team Member 2` | **Renuga A** |
-| `Team Member 3` |   **SharanyaDevi M S**  |
+| `Team Member 3` |   **Sharanyaa Devi M S**  |
 
 ### 📌Project Description:
 
