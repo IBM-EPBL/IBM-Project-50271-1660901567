@@ -13,7 +13,7 @@
 
 |  Team Members  |    Names      |
 | ------------- | ------------- |
-| `Team Leader`   |    **Nivedhita M**    |
+| `Team Leader`   |    **Nivedhitha M**    |
 | `Team Member 1` | **Vishnu varthiny P**  |
 | `Team Member 2` | **Renuga A** |
 | `Team Member 3` |   **Sharanyaa Devi M S**  |
